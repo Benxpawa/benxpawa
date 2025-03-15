@@ -13,5 +13,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benxpawa&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
-https://count.getloli.com/@chenmy?name=chenmy&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
+[awa](https://count.getloli.com/@chenmy?name=chenmy&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <a href="https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai" title="戳我查看！" target="_blank">中考倒计时！</a>
