@@ -10,8 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,lua,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,vscode,ps,ai,pr,au,ae,blender,powershell)](https://benxpawa.github.io/)
 
 #### 成分检测/Skill composition
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benxpawa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benxpawa&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)]
 
 <details>
   <summary>碎碎念 ⚡</summary>
