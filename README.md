@@ -27,8 +27,8 @@
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-phone" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
-                <span>Telegram:<a href="https://t.me/CHmyawa">@CHmyawa</a></span>
-                    <span>私信请至：<a href="t.me/ChenChatAwA_Bot">@ChenChatAwA_Bot</a>  /  To send a private message, please go to <a href="t.me/ChenChatAwA_Bot">@ChenChatAwA_Bot</a>
+                <span>Telegram:<a href="https://t.me/CHmyawa">@CHmyawa</a>（私信请至：<a href="t.me/ChenChatAwA_Bot">@ChenChatAwA_Bot</a>  /  To send a private message, please go to <a href="t.me/ChenChatAwA_Bot">@ChenChatAwA_Bot</a>）</span>
+                    
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-map-marker-alt" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
