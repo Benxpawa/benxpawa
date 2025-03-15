@@ -23,7 +23,7 @@
         <ul style="list-style-type: none; padding: 0;">
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-envelope" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
-                <span>E-Mail:<a href="mailto:chenmyawa@163.com">CHenmyawa@163.com</a></span>
+                <span>E-Mail:<a href="mailto:chenmyawa@outlook.com">Chenmyawa@outlook.com</a></span>
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-phone" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
@@ -31,7 +31,7 @@
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-map-marker-alt" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
-                <span>123 Main St, Anytown, USA</span>
+                <span>Address:<a href="https://maps.app.goo.gl/P1G4oAiWDGG2LF2o9">No. 100, Daxue East Road, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region, China Postal Code: 530003</a></span>
             </li>
         </ul>
         <div style="margin-top: 20px;">
