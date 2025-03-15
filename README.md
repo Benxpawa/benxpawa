@@ -8,6 +8,7 @@
 #### 我的技能/My Kkills
 <!-- This is a list of Kkill Icons provided by skillicons.drv --Whrit By CHenmy -->
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,lua,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,vscode,ps,ai,pr,au,ae,blender,powershell)](https://benxpawa.github.io/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>碎碎念 ⚡</summary>
