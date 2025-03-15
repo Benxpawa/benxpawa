@@ -13,5 +13,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benxpawa&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
-[中考倒计时！]("https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai")
-[Markdown语法](https://markdown.com.cn)
+[中考倒计时！](https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai){:target="_blank"}
