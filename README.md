@@ -15,8 +15,8 @@
 
 <details>
   <summary>碎碎念 ⚡</summary>
-  中考中考中考阿巴阿巴阿巴阿巴
-  [![aaa](https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai")
+  Github好简陋阿巴，啥时候写点代码丢上来罢（）
+  [中考倒计时！](https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai")
 </details>
 
 
