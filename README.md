@@ -15,3 +15,34 @@
 
 ![awa](https://count.getloli.com/@chenmy?name=chenmy&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <a href="https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai" title="戳我查看！" target="_blank">中考倒计时！</a>
+
+
+<div style="width: 350px; margin: 50px auto; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;">
+        <h2 style="color: #333; margin-bottom: 10px;">联系我们</h2>
+        <p style="color: #777; margin-bottom: 20px;">如有任何疑问，请随时与我们联系。</p>
+        <ul style="list-style-type: none; padding: 0;">
+            <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
+                <i class="fa-solid fa-envelope" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
+                <span>info@example.com</span>
+            </li>
+            <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
+                <i class="fa-solid fa-phone" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
+                <span>+1 (123) 456-7890</span>
+            </li>
+            <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
+                <i class="fa-solid fa-map-marker-alt" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
+                <span>123 Main St, Anytown, USA</span>
+            </li>
+        </ul>
+        <div style="margin-top: 20px;">
+            <a href="#" target="_blank" style="display: inline-block; margin: 0 10px; color: #007BFF; font-size: 24px; transition: color 0.3s ease;">
+                <i class="fa-brands fa-facebook-f"></i>
+            </a>
+            <a href="#" target="_blank" style="display: inline-block; margin: 0 10px; color: #007BFF; font-size: 24px; transition: color 0.3s ease;">
+                <i class="fa-brands fa-twitter"></i>
+            </a>
+            <a href="#" target="_blank" style="display: inline-block; margin: 0 10px; color: #007BFF; font-size: 24px; transition: color 0.3s ease;">
+                <i class="fa-brands fa-instagram"></i>
+            </a>
+        </div>
+    </div>
