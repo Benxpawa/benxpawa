@@ -2,7 +2,7 @@
 
 这里是CHenmy的Github仓库，也许我会在这里放一些奇奇怪怪的东西
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxynet&label=Profile%20views&color=0e75b6&style=flat" alt="xxynet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benxpawa&label=Profile%20views&color=0e75b6&style=flat" alt="benxpawa" /> </p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,py,cpp,mysql,sqlite,nginx,jquery,wordpress,flask,electron,windows,linux,kali,docker,git,github,twitter,discord,instagram,notion,vscode,pycharm,ps,ai,pr,powershell)](https://skillicons.dev)
 
