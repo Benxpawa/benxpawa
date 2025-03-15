@@ -1,10 +1,13 @@
-## 你好呀 👋
+## 你好呀/Hi there 👋
 
-这里是CHenmy的Github仓库，也许我会在这里放一些奇奇怪怪的东西
+这里是CHenmy的Github仓库，也许我会在这里放一些奇奇怪怪的东西/This is CHenmy's Github repository. Maybe I'll put some weird stuff here.
 
+<!-- This is a Profile View Icon --Whrit By CHenmy -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benxpawa&label=Profile%20views&color=0e75b6&style=flat" alt="benxpawa" /> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,telegram,vscode,ps,ai,pr,au,me,ae,blender,powershell,cmd)]()
+#### 我的技能/My Kkills
+<!-- This is a list of Kkill Icons provided by skillicons.drv --Whrit By CHenmy -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,lua,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,telegram,vscode,ps,ai,pr,au,ae,blender,powershell)]()
 
 <details>
   <summary>Github Stats ⚡</summary>
