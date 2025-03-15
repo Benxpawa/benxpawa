@@ -16,8 +16,8 @@
 <details>
   <summary>碎碎念 ⚡</summary>
   中考中考中考阿巴阿巴阿巴阿巴
-  # 倒计时示例
-<div id="countdown"></div>
+# 倒计时示例
+<div id="countdown" style="font-size: 20px; color: #333; font-family: Arial, sans-serif;"></div>
 <script>
     // 设置倒计时的结束时间为2025/06/23 00:00:00
     const endTime = new Date('2025-06-23 00:00:00').getTime();
