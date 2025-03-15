@@ -7,10 +7,10 @@
 
 #### 我的技能/My Kkills
 <!-- This is a list of Kkill Icons provided by skillicons.drv --Whrit By CHenmy -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,lua,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,vscode,ps,ai,pr,au,ae,blender,powershell)](https://benxpawa.github.io/){:target="_blank"}
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,lua,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,vscode,ps,ai,pr,au,ae,blender,powershell)](https://benxpawa.github.io/)
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>碎碎念 ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=xxynet&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxynet&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
