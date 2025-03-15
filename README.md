@@ -18,16 +18,16 @@
 
 
 <div style="width: 350px; margin: 50px auto; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;">
-        <h2 style="color: #333; margin-bottom: 10px;">联系我们</h2>
-        <p style="color: #777; margin-bottom: 20px;">如有任何疑问，请随时与我们联系。</p>
+        <h2 style="color: #333; margin-bottom: 10px;">联系我/Contact Me</h2>
+        <p style="color: #777; margin-bottom: 20px;">若非熟人/重要消息，请勿直接私信  /  If you are not an acquaintance/important message, please do not send a private message directly</p>
         <ul style="list-style-type: none; padding: 0;">
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-envelope" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
-                <span>info@example.com</span>
+                <span>E-Mail:<a href="mailto:chenmyawa@163.com">CHenmyawa@163.com</a></span>
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-phone" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
-                <span>+1 (123) 456-7890</span>
+                <span>Telegram:<a href="https://t.me/CHmyawa">@CHmyawa</a></span>
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-map-marker-alt" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
