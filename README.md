@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benxpawa&label=Profile%20views&color=0e75b6&style=flat" alt="benxpawa" /> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,py,cpp,mysql,sqlite,nginx,jquery,wordpress,flask,electron,windows,linux,kali,docker,git,github,twitter,discord,instagram,notion,vscode,pycharm,ps,ai,pr,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,telegram,vscode,ps,ai,pr,au,me,ae,blender,powershell,cmd)]()
 
 <details>
   <summary>Github Stats ⚡</summary>
