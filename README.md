@@ -10,16 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,lua,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,vscode,ps,ai,pr,au,ae,blender,powershell)](https://benxpawa.github.io/)
 
 #### 成分检测/Skill composition
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benxpawa&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benxpawa&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
-<details>
-  <summary>碎碎念 ⚡</summary>
-  Github好简陋阿巴，啥时候写点代码丢上来罢（）
-  [中考倒计时！]("https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai")
-  <p align="left"> <img src="https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai" alt="benxpawa" /> </p>
-
-#### 我的技能/My Kkills
-</details>
-
-
+[中考倒计时！]("https://embed-countdown.onlinealarmkur.com/zh-cn/#2025-06-23T00:00:00@Asia%2FShanghai")
