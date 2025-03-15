@@ -27,11 +27,11 @@
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-phone" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
-                <span>Telegram:<a href="https://t.me/CHenmyawa">@CHenmyawa</a>（私信请至：<a href="t.me/ChenChatAwA_Bot">@ChenChatAwA_Bot</a>  /  To send a private message, please go to <a href="t.me/ChenChatAwA_Bot">@ChenChatAwA_Bot</a>）</span>
+                <span>Telegram:<a href="https://t.me/CHenmyawa">@CHenmyawa</a>（私信请至：<a href="t.me/ChenChatAwA_Bot" target="_blank">@ChenChatAwA_Bot</a>  /  To send a private message, please go to <a href="t.me/ChenChatAwA_Bot" target="_blank">@ChenChatAwA_Bot</a>）</span>
             </li>
             <li style="margin-bottom: 15px; display: flex; align-items: center; justify-content: center;">
                 <i class="fa-solid fa-map-marker-alt" style="margin-right: 10px; color: #007BFF; font-size: 18px;"></i>
-                <span>Address:<a href="https://maps.app.goo.gl/P1G4oAiWDGG2LF2o9">No. 100, Daxue East Road, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region, China Postal Code: 530003</a></span>
+                <span>Address:<a href="https://maps.app.goo.gl/P1G4oAiWDGG2LF2o9" target="_blank">No. 100, Daxue East Road, Xixiangtang District, Nanning, Guangxi Zhuang Autonomous Region, China Postal Code: 530003</a></span>
             </li>
         </ul>
         <div style="margin-top: 20px;">
