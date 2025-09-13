@@ -1,6 +1,6 @@
 ## 你好呀/Hi there 👋
 
-这里是CHenmy的Github仓库，也许我会在这里放一些奇奇怪怪的东西/This is CHenmy's Github repository. Maybe I'll put some weird stuff here.
+这里是我的Github仓库，也许我会在这里放一些奇奇怪怪的东西/This is my Github repository. Maybe I'll put some weird stuff here.
 
 <!-- This is a Profile View Icon --Whrit By CHenmy -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benxpawa&label=Profile%20views&color=0e75b6&style=flat" alt="benxpawa" /> </p>
